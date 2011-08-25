@@ -1,0 +1,37 @@
+EmailCheck()
+NameCheck()
+BornYearCheck()
+SkypeCheck()
+CountryCheck()
+TelephoneCheck()
+PriceCheck()
+SQLInjectionCheck()
+ICQCheck()
+
+IsString()
+IsInt()
+IsFloat()
+IsBoolean()
+IsInDatabase()
+IsPasswordValid()
+IsOnline()
+IsInBlackList()
+IsAllFieldsFilles()
+IsFieldEmpty()
+IsZero()
+IsPozitive()
+
+Проверка данных пришедших на сервер в HTTP запросе
+
+Обрезать пробелы перед проверкой и записью в базу данных
+
+isset()
+stripslashes()
+htmlspecialchars()
+empty()
+ereg()
+ereg_replace()
+eregi()
+ereg_replacei()
+split()
+.htaccess
